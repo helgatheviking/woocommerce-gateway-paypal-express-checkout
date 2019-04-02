@@ -101,6 +101,9 @@ Please use this to inform us about bugs, or make contributions via PRs.
 
 == Changelog ==
 
+= 1.6.11 - 2019-* =
+* Fix - Better handling of virtual subscriptions when billing address is not required
+
 = 1.6.10 - 2019-03-05 =
 * Fix - Use only product attributes when adding to cart
 
